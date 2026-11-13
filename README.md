@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**imanoz/imanoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, Manos here! 👋
 
-Here are some ideas to get you started:
+I created this page to share my passion for vintage gaming with you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my free time, I enjoy working with SM83 Assembly, the language used by Game Boy consoles.
+Currently, I'm focused on creating custom scripts for Pokémon Generation I games. I'm excited to see how far I can take it! 🚀
+
+---
+
+Appreciate my work? Feel free to support me — it keeps me inspired to build more cool stuff!
+
+[![Kofi](https://img.shields.io/badge/Kofi-Donate-blue?logo=Ko-Fi)](https://ko-fi.com/manozdev)
+[![Revolut](https://img.shields.io/badge/Revolut-Donate-blue?logo=revolut)](https://revolut.me/emmanoj7r6) 
